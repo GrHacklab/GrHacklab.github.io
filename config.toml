@@ -1,4 +1,4 @@
 languageCode = "en-us"
 title = "GRANADA HACKLAB"
-baseurl = "http://example.org/"
+baseurl = "https://grhacklab.github.io/"
 theme = "gohugo-theme-ananke"
