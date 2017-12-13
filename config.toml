@@ -1,0 +1,4 @@
+languageCode = "en-us"
+title = "GRANADA HACKLAB"
+baseurl = "http://example.org/"
+theme = "gohugo-theme-ananke"
