@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://grhacklab.github.io/post/</loc>
+    <lastmod>2017-12-14T12:00:12-32:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
   
   <url>
     <loc>https://grhacklab.github.io/</loc>
@@ -16,12 +22,6 @@
   </url>
   
   <url>
-    <loc>https://grhacklab.github.io/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://grhacklab.github.io/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -30,12 +30,6 @@
   <url>
     <loc>https://grhacklab.github.io/</loc>
     <lastmod>2017-12-13T12:47:13+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://grhacklab.github.io/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>

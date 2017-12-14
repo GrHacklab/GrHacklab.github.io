@@ -2,14 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GRANADA HACKLAB</title>
-    <link>https://grhacklab.github.io/</link>
+    <link>https://grhacklab.github.io/index.xml</link>
     <description>Recent content on GRANADA HACKLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 13 Dec 2017 12:47:13 +0000</lastBuildDate>
-    
-	<atom:link href="https://grhacklab.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="https://grhacklab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Granada Hacklab</title>
@@ -17,7 +15,8 @@
       <pubDate>Wed, 13 Dec 2017 12:47:13 +0000</pubDate>
       
       <guid>https://grhacklab.github.io/</guid>
-      <description>Pruebas de ver si sale algo: &amp;ldquo;Hola Mundo&amp;rdquo;.</description>
+      <description>&lt;p&gt;Pruebas de ver si sale algo: &amp;ldquo;Hola Mundo&amp;rdquo;.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -26,8 +25,30 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://grhacklab.github.io/contact/</guid>
-      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out Formspree for a simple, free form service.
-Your Name Email Address An email address is required.  Message   </description>
+      <description>&lt;p&gt;This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out &lt;a href=&#34;https://formspree.io/&#34;&gt;Formspree&lt;/a&gt; for a simple, free form service.&lt;/p&gt;
+
+
+
+
+&lt;form class=&#34;black-80 sans-serif&#34; accept-charset=&#34;UTF-8&#34; action=&#34;https://grhacklab@psicobyte.com&#34; method=&#34;POST&#34; role=&#34;form&#34;&gt;
+
+    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34;  for=&#34;name&#34;&gt;Your Name&lt;/label&gt;
+    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;name&#34;/&gt;
+
+    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;email&#34;&gt;Email Address&lt;/label&gt;
+    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;email&#34;/&gt;
+    &lt;div class=&#34;requirements f6 gray glow i ph3 overflow-hidden&#34;&gt;
+      An email address is required.
+    &lt;/div&gt;
+
+    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;message&#34;&gt;Message&lt;/label&gt;
+    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn h4&#34; aria-labelledby=&#34;message&#34;&gt;&lt;/textarea&gt;
+
+    &lt;input class=&#34;db w-100 mv2 white pa3 bn hover-shadow hover-bg-blck bg-animate bg-black&#34; type=&#34;submit&#34; value=&#34;Send&#34; /&gt;
+
+&lt;/form&gt;
+
+</description>
     </item>
     
   </channel>
