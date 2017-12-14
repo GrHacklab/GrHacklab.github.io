@@ -1,2 +1,3 @@
 # GrHacklab.github.io
-Web by Hugo theme Ananke
+
+`Web by Hugo and theme Ananke`
