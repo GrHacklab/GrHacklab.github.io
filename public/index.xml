@@ -2,13 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GRANADA HACKLAB</title>
-    <link>http://example.org/</link>
+    <link>https://grhacklab.github.io/</link>
     <description>Recent content on GRANADA HACKLAB</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 13 Dec 2017 12:47:13 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://grhacklab.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Granada Hacklab</title>
+      <link>https://grhacklab.github.io/</link>
+      <pubDate>Wed, 13 Dec 2017 12:47:13 +0000</pubDate>
+      
+      <guid>https://grhacklab.github.io/</guid>
+      <description>Pruebas de ver si sale algo: &amp;ldquo;Hola Mundo&amp;rdquo;.</description>
+    </item>
     
   </channel>
 </rss>
