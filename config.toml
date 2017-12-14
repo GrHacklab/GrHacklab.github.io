@@ -1,5 +1,5 @@
 title = "GRANADA HACKLAB"
-baseURL = "https://github.com/GrHacklab.github.io"
+baseURL = "https://GrHacklab.github.io"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
 # themesDir = "../.."
