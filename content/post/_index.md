@@ -1,5 +1,5 @@
 ---
 title: "Articles"
-date: 2017-03-02T12:00:00-05:00
+date: 2017-12-14T12:00:12-32:00
 ---
-Articles are paginated with only three posts here for example. You can set the number of entries to show on this page with the "pagination" setting in the config file.
+Aquí crearemos los post o artículos sobre todo lo que tenga que ver con el Software y Hardware Libre.
