@@ -2,6 +2,7 @@ title = "GRANADA HACKLAB"
 baseURL = "https://grhacklab.github.io/"
 languageCode = "en-us"
 theme = "gohugo-theme-ananke"
+# publishDir = "."
 # themesDir = "../.."
 
 MetaDataFormat = "yaml"
