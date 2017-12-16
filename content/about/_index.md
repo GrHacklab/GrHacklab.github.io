@@ -1,8 +1,8 @@
 ---
-title: "About"
-description: "Sobre Granada Hacklab y la ciudad de dónde tienen estbalecida la asociación"
+title: "Acerca de Granada Hacklab"
+description: "Sobre Granada Hacklab es un grupo que apoyamos y ofrecemos soporte sobre Software y Hardawre libre en la ciuda de Granada"
 featured_image: ''
 ---
-{{< figure src="/images/Granada_city.jpg" title="Foto de la ciudad de Granada, España" >}}
+{{< figure src="/images/GrHacklab_origin.png" title="GrHackalb" >}}
 
-Granada es una ciudad y municipio español, capital de la provincia homónima, en la comunidad autónoma de Andalucía. Está situada en el centro de la comarca Vega de Granada, a una altitud de 680 m s. n. m., en una amplia depresión intrabética formada por el río Genil y por el piedemonte del macizo más alto de la península ibérica, Sierra Nevada, que condiciona su clima.
+GrHackalab se forjo mientras varios de sus componente estabamos vinculados a la oficina de Software Libre de la Universidad de Granada. La principal idea de formar este grupo fué por hacer llegar herramientas y proporcionar ayuda a todas las personas que, en algún momento de su andadura con el software o hardware libre, necesitasen soporte para cualquier duda, tanto en la instalación, configuración de drivers, distros GNU/Linux, liberación de proyectos con distintos tipos de licencias libres, etc...

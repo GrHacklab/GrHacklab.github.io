@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Articles on GRANADA HACKLAB</title>
+    <link>https://grhacklab.github.io/post/</link>
+    <description>Recent content in Articles on GRANADA HACKLAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Dec 2017 12:00:12 -3200</lastBuildDate>
+    
+	<atom:link href="https://grhacklab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
