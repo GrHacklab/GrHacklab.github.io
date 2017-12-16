@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on GRANADA HACKLAB</title>
+    <link>https://grhacklab.github.io/post/</link>
+    <description>Recent content in Posts on GRANADA HACKLAB</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 14 Dec 2017 12:00:12 -3200</lastBuildDate>
+    
+	<atom:link href="https://grhacklab.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Articles</title>
+      <link>https://grhacklab.github.io/post/</link>
+      <pubDate>Thu, 14 Dec 2017 12:00:12 -3200</pubDate>
+      
+      <guid>https://grhacklab.github.io/post/</guid>
+      <description>Aquí crearemos los post o artículos sobre todo lo que tenga que ver con el Software y Hardware Libre.</description>
+    </item>
+    
+  </channel>
+</rss>
